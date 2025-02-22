@@ -1,0 +1,8 @@
+fastapi
+elasticsearch
+elasticsearch-dsl
+python-dotenv
+sqlalchemy
+celery
+kafka-python
+redis
